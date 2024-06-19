@@ -1,1 +1,2 @@
-print('hellow world')
+
+dprint('hellow world')
